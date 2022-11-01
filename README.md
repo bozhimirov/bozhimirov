@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bozhimirov
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning python and django
+- 🌱 I’m currently mastering python and django
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: @bozhimirov in gmail.com
 
