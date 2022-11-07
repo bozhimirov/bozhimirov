@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bozhimirov
-- 👀 I’m interested in everything
+- 👋 Hi, I’m Stanley
+- 👀 I’m interested in everything in the universe
 - 🌱 I’m currently mastering python and django
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: @bozhimirov in gmail.com
