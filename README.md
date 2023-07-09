@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stanislav-bozhimirov-b390a66b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stanislav-bozhimirov-b390a66b" height="30" width="40" /></a>
+<a href="mailto:bozhimirov@gmail.com"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="bozhimirov at gmail dot com" height="60" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
