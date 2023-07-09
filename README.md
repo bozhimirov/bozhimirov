@@ -5,7 +5,7 @@
   
 - 🔭 I dare you to try beat my bots on a simple console game [Liars-Dice-Console-Game](https://replit.com/@bozhimirov/Liars-Dice-Console-Game)
 
-- 🌱 I’m currently mastering **Solidity and React**
+- 🌱 I’m currently mastering **Solidity and ReactJS**
 
 - 👯 I’m looking to collaborate on **any projects**
 
