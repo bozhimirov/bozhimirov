@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on dApp [BarProjectV1.0](https://github.com/bozhimirov/BarProjectV1.0) ( it will be upgraded version of [BarProject](project-bar.vercel.app/))
   
-- 🔭 I dare you to try beat my bots on a simple console game [Liars-Dice-Console-Game](https://replit.com/@bozhimirov/Liars-Dice-Console-Game)
+- 🔭 I dare you to try beat my bots on a simple console game [Liars-Dice-Console-Game](https://replit.com/@bozhimirov/LiarsDiceConsoleGameOOP)
 
 - 🌱 I’m currently mastering **Solidity and ReactJS**
 
