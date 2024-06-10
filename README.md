@@ -3,7 +3,7 @@
 
 - 🔭 Check out my latest blockchain made completely in python [python_blockchain_project](https://github.com/bozhimirov/python_blockchain_project)
   
-- 🔭 I dare you to try beat my bots on a simple console game [Liars-Dice-Console-Game](https://replit.com/@bozhimirov/LiarsDiceConsoleGameOOP)
+- 🔭 I dare you to try beat my bots on a simple console game [Liars-Dice-Console-Game](https://github.com/bozhimirov/Liars_Dice_Console_Game_OOP) [Demo](https://replit.com/@bozhimirov/LiarsDiceConsoleGameOOP)
 
 - 🌱 I’m currently mastering **Solidity, Flask and ReactJS**
 
