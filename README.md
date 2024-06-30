@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Stanislav Bozhimirov / Stanley /</h1>
-<h3 align="center">A passionate fullstack developer interested in Blockchain from Bulgaria</h3>
+<h3 align="center">A passionate Python Fullstack Developer interested in Blockchain from Bulgaria</h3>
 
 - 🔭 Check out my latest blockchain made completely in python [python_blockchain_project](https://github.com/bozhimirov/python_blockchain_project)
   
