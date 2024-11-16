@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Stanislav Bozhimirov / Stanley /</h1>
 <h3 align="center">A passionate Python Fullstack Developer interested in Blockchain from Bulgaria</h3>
 
+- 🔭 Check out my latest web app [QR Code Generator](https://youthful-sallyann-bozhimirov-b38f7083.koyeb.app/)
+ 
 - 🔭 Check out my latest blockchain made completely in python [python_blockchain_project](https://github.com/bozhimirov/python_blockchain_project)
   
 - 🔭 I dare you to try beat my bots on a simple console game [Liars-Dice-Console-Game](https://github.com/bozhimirov/Liars_Dice_Console_Game_OOP) / [Demo](https://replit.com/@bozhimirov/LiarsDiceConsoleGameOOP)
